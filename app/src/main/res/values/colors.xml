@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#7b0d39</color>
+    <color name="colorPrimaryDark_">#630b2e</color>
+    <color name="colorMenuHeader">#5D062A</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#c02642</color>
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBrown">#bc906c</color>
+    <color name="colorRed">#ec0000</color>
+    <color name="colorLink">#b2b2b2</color>
+    <color name="colorBlue">#2e5795</color>
+
+    <!--<color name="colorWhiteAlpha">#90ffffff</color>-->
+    <color name="colorWhiteAlpha">#954c4c4c</color>
+    <color name="colorGrayLight">#f7f2f2</color>
+    <color name="colorGray">#e1dddd</color>
+    <color name="colorGrayDark">#4c4c4c</color>
+    <color name="colorGraySpinner">#979797</color>
+    <color name="colorGreen">#587a44</color>
+    <color name="colorText">#000000</color>
+    <color name="textGray">#b2b2b2</color>
+    <color name="textHint">#70b2b2b2</color>
+    <color name="colorGrayFavored">#828485</color>
+    <color name="colorGrayRescue">#333333</color>
+    <color name="colorRedRescue">#ff0000</color>
+    <color name="colorGreenRescue">#587a44</color>
+    <color name="colorPinkRescue">#c39b7b</color>
+    <color name="colorSpinnerLine">#EBEAEA</color>
+    <color name="colorCenterTextChart">#63656a</color>
+    <color name="colorViewPopup">#e5e5e5</color>
+
+    <color name="colorGraphText">#373737</color>
+
+    <color name="colorCurrentAccount">#828485</color>
+    <color name="foregroundCamera">#a6000000</color>
+
+    <color name="colorDebitExtract">#891c2e</color>
+    <!-- Widgets -->
+    <color name="widgetButtonDefaultBackground">@color/colorAccent</color>
+    <color name="widgetButtonDarkBackground">#1b61a6</color>
+    <color name="widgetButtonDefaultTextColor">@color/colorAccent</color>
+
+    <color name="colorBrownLight">#ef7314</color>
+
+    <color name="colorDisabled">#b9b4b4</color>
+
+    <color name="colorExclusiveCard">#4a6da1</color>
+    <color name="colorExclusiveBuy">#2e5795</color>
+</resources>

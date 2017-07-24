@@ -1,0 +1,61 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Fragment default-->
+    <dimen name="marginLeftFragment">20dp</dimen>
+    <dimen name="marginTopFragment">10dp</dimen>
+    <dimen name="marginBottomFragment">10dp</dimen>
+    <dimen name="marginRightFragment">20dp</dimen>
+    <dimen name="marginTopDefault">20dp</dimen>
+    <dimen name="marginBottomDefault">20dp</dimen>
+
+    <!--footer home-->
+    <dimen name="footer_height">75dp</dimen>
+    <dimen name="footer_height_item">55dp</dimen>
+    <dimen name="footer_space">14dp</dimen>
+    <dimen name="footer_space_negative">-14dp</dimen>
+    <dimen name="size_carousel">65dp</dimen>
+
+    <dimen name="imageCardTakePhoto">45dp</dimen>
+    <dimen name="button_large_padding_top">10dp</dimen>
+    <dimen name="button_large_padding_bottom">10dp</dimen>
+
+    <dimen name="smallPadding">5dp</dimen>
+    <dimen name="regularPadding">10dp</dimen>
+    <dimen name="largePadding">20dp</dimen>
+    <dimen name="bigPadding">30dp</dimen>
+    <dimen name="toolTipWidth">30dp</dimen>
+    <dimen name="toolTipHeight">30dp</dimen>
+    <dimen name="toolTipMargin">-24dp</dimen>
+    <dimen name="progressBar">50dp</dimen>
+    <dimen name="design_navigation_separator_vertical_padding">0dp</dimen>
+
+    <!--text size-->
+    <dimen name="footer_text_size">9sp</dimen>
+    <dimen name="textTitleHomeMenu">9sp</dimen>
+    <dimen name="textErrorInputText">11sp</dimen>
+    <dimen name="textInfo">11sp</dimen>
+    <dimen name="toolTipTextSize">12sp</dimen>
+    <dimen name="textTitleUnselectNotification">12sp</dimen>
+    <dimen name="textRecyclerView">13sp</dimen>
+    <dimen name="textDefault">14sp</dimen>
+    <dimen name="textSmallDefault">14sp</dimen>
+    <dimen name="textCardText">12sp</dimen>
+    <dimen name="textTitleNotification">14sp</dimen>
+    <dimen name="textInvestmentsCard">15sp</dimen>
+    <dimen name="textFAQItem">15sp</dimen>
+    <dimen name="textNewFavored">16sp</dimen>
+    <dimen name="textSubTitle">17sp</dimen>
+    <dimen name="textTitleRecyclerView">17sp</dimen>
+    <dimen name="alert_dialog_title">18sp</dimen>
+    <dimen name="textTitle">19sp</dimen>
+    <dimen name="textFeatured">21sp</dimen>
+    <dimen name="textTitleDialog">22sp</dimen>
+    <dimen name="textTitleHome">24sp</dimen>
+    <dimen name="textTitleTab">25sp</dimen>
+    <dimen name="textTitleTransaction">30sp</dimen>
+
+
+</resources>

@@ -1,0 +1,61 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="padding_for_carousel">180dp</dimen>
+
+    <dimen name="activity_horizontal_margin">13dp</dimen>
+    <dimen name="activity_vertical_margin">13dp</dimen>
+    <dimen name="imageCardTakePhoto">35dp</dimen>
+
+    <!--Fragment default-->
+    <dimen name="marginLeftFragment">17dp</dimen>
+    <dimen name="marginTopFragment">7dp</dimen>
+    <dimen name="marginBottomFragment">7dp</dimen>
+    <dimen name="marginRightFragment">17dp</dimen>
+    <dimen name="marginTopDefault">17dp</dimen>
+    <dimen name="marginBottomDefault">17dp</dimen>
+
+    <!--footer home-->
+    <dimen name="footer_height">70dp</dimen>
+    <dimen name="footer_height_item">51dp</dimen>
+    <dimen name="footer_space">11dp</dimen>
+    <dimen name="footer_space_negative">-11dp</dimen>
+
+    <dimen name="button_large_padding_top">8dp</dimen>
+    <dimen name="button_large_padding_bottom">8dp</dimen>
+
+    <dimen name="smallPadding">5dp</dimen>
+    <dimen name="regularPadding">8dp</dimen>
+    <dimen name="largePadding">14dp</dimen>
+    <dimen name="bigPadding">25dp</dimen>
+    <dimen name="toolTipWidth">30dp</dimen>
+    <dimen name="toolTipHeight">30dp</dimen>
+    <dimen name="toolTipMargin">-24dp</dimen>
+    <dimen name="progressBar">50dp</dimen>
+
+
+    <!--text size-->
+    <dimen name="textTitleHomeMenu">6sp</dimen>
+    <dimen name="textInfo">8sp</dimen>
+    <dimen name="textErrorInputText">8sp</dimen>
+    <dimen name="footer_text_size">9sp</dimen>
+    <dimen name="textCarouselOld">10sp</dimen>
+    <dimen name="textRecyclerView">10sp</dimen>
+    <dimen name="textTitleNotification">10sp</dimen>
+    <dimen name="toolTipTextSize">10sp</dimen>
+    <dimen name="textTitleUnselectNotification">10sp</dimen>
+    <dimen name="textDefault">11sp</dimen>
+    <dimen name="textCardText">9sp</dimen>
+    <dimen name="textSubTitle">12sp</dimen>
+    <dimen name="textSmallDefault">12sp</dimen>
+    <dimen name="textFAQItem">13sp</dimen>
+    <dimen name="textNewFavored">14sp</dimen>
+    <dimen name="textCarouselNew">13sp</dimen>
+    <dimen name="textTitleRecyclerView">14sp</dimen>
+    <dimen name="alert_dialog_title">15sp</dimen>
+    <dimen name="textTitle">15sp</dimen>
+    <dimen name="textFeatured">16sp</dimen>
+    <dimen name="textTitleDialog">19sp</dimen>
+    <dimen name="textTitleHome">20sp</dimen>
+    <dimen name="textTitleTab">22sp</dimen>
+    <dimen name="textTitleTransaction">27sp</dimen>
+</resources>

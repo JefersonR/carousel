@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="padding_for_carousel">95dp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
