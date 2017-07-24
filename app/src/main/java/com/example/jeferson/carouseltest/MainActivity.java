@@ -62,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
                 Log.e("SELECT", String.format("Titulo: %s - Posição: %d", currentTitle, position));
             }
         });
+
+        Log.e("POSITION", String.format("Titulo: %s - Posição: %d", panelCarousel.getCurrentPosition(), panelCarousel.getCurrentTitle()));
     }
 
     @Override
